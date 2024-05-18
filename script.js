@@ -57,7 +57,7 @@ ScrollTrigger.matchMedia({
         end: "+=" + window.innerHeight * 5,
         scroller: "#main",
         pin: true,
-        // markers:true,
+ 
         scrub: true,
       },
     });
